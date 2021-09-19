@@ -1,0 +1,3 @@
+C:\Users\Stephan\source\repos\SWE_Ex1\SWE_Ex1\bin\Debug\netcoreapp3.1\SWE_Ex1.exe
+C:\Users\Stephan\source\repos\SWE_Ex1\SWE_Ex1\obj\Debug\netcoreapp3.1\SWE_Ex1.AssemblyInfoInputs.cache
+C:\Users\Stephan\source\repos\SWE_Ex1\SWE_Ex1\obj\Debug\netcoreapp3.1\SWE_Ex1.AssemblyInfo.cs
